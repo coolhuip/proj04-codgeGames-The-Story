@@ -1,4 +1,4 @@
-package monsters;
+package monsters._interfaces;
 
 public interface ActionableMonster {
 
